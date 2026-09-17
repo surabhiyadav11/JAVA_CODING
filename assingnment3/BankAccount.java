@@ -1,6 +1,7 @@
 package assingnment3;
 
 class BankAccount {
+
     int AccountNumber;
     String name;
     double AccountBalance;
