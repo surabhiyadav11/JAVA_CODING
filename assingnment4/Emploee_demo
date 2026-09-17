@@ -1,0 +1,77 @@
+package assingnment4;
+import java.util.Scanner;
+
+class Employee{
+	
+	int Employee_id;
+	String name;
+	double salary;
+	
+	static String Company_name = "Google";
+	
+	void accept ()
+	{
+		Scanner sc = new Scanner (System.in);
+
+		System.out.println("Enter the employee id :");
+		Employee_id = sc.nextInt();
+		
+		System.out.println("enter the name of employee here");
+		name = sc.nextLine();
+		sc.nextLine();
+		
+		System.out.println("enter the salary of employeee please");
+		salary = sc.nextDouble();
+	}
+	
+	void display()
+	{
+		System.out.println("emplpyee id is == " + Employee_id);
+		System.out.println("employee name is == " + name);
+		System.out.println("companyy name is == " + Company_name);
+		System.out.println("employee salary iss == " + salary);
+	}
+}
+
+public class Employee_demo{
+	public static void main(String[] args)
+	{
+		
+		Employee e1 = new Employee();
+		Employee e2 = new Employee();
+		
+		System.out.println("enter the details of emplpyee 1");
+		e1.accept();
+		
+		System.out.println("enter the details of emplpyee 2");
+		e2.accept();
+		
+		System.out.println("========================================================================");
+		
+		System.out.println("these are the details of employee 1");
+		e1.display();
+		
+		System.out.println("these are the details of employee 2");
+		e2.display();
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
