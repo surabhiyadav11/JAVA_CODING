@@ -1,4 +1,4 @@
-# ☕ Java Coding
+# Java Coding
 
 This repository contains my Java programming practice and college assignments.
 
@@ -21,7 +21,6 @@ Each folder contains Java programs related to different concepts and problem-sol
 - Practice Java programming
 - Improve problem-solving skills
 - Maintain regular coding practice
-- Keep my college assignments organized
 
 ## 📁 Repository Structure
 
