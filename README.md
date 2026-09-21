@@ -2,7 +2,7 @@
 
 This repository contains my Java programming practice and college assignments.
 
-## 📚 Contents
+## Contents
 
 - Assignment 1
 - Assignment 2
