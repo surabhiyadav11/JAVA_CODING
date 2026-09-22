@@ -16,7 +16,7 @@ Each folder contains Java programs related to different concepts and problem-sol
 
 - Java
 
-## 🎯 Purpose
+## Purpose
 
 - Practice Java programming
 - Improve problem-solving skills
