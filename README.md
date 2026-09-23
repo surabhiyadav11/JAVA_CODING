@@ -22,7 +22,7 @@ Each folder contains Java programs related to different concepts and problem-sol
 - Improve problem-solving skills
 - Maintain regular coding practice
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 JAVA_CODING/
