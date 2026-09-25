@@ -12,7 +12,7 @@ This repository contains my Java programming practice and college assignments.
 
 Each folder contains Java programs related to different concepts and problem-solving exercises.
 
-## 🛠️ Language
+##  Language
 
 - Java
 
