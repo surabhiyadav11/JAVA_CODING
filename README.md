@@ -11,7 +11,7 @@ This repository contains my Java programming practice and college assignments.
 - Assignment 5
 - assignment 6
 - assignment 7
--  
+- assignment 8
 
 Each folder contains Java programs related to different concepts and problem-solving exercises.
 
